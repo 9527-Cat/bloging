@@ -3,8 +3,7 @@
     "type": "emoticon",
     "container": [
       { "icon": "OωO", "text": "Author: DIYgod" },
-      { "icon": "|´・ω・)ノ", "text": "Hi" },
-
+      { "icon": "|´・ω・)ノ", "text": "Hi" }
     ]
   },
   "Emoji": {
@@ -35,6 +34,10 @@
       { "icon": "<img src=\"https://owo.imaegoo.com/bilibili/34db290afd2963723c6eb3c4560667db7253a21a.png\">", "text": "tv_发财" },
       { "icon": "<img src=\"https://owo.imaegoo.com/bilibili/9e55fd9b500ac4b96613539f1ce2f9499e314ed9.png\">", "text": "tv_可爱" },
       { "icon": "<img src=\"https://owo.imaegoo.com/bilibili/09dd16a7aa59b77baa1155d47484409624470c77.png\">", "text": "tv_吐血" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/9527-Cat/bloging/twikoo/jtm/1-mmexport1689432805559.webp\">", "text": "tv_打篮球" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/9527-Cat/bloging/twikoo/jtm/10-mmexport1689432097177.webp\">", "text": "tv_乖巧" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/9527-Cat/bloging/twikoo/gif-kun/Chicken00001.gif\">", "text": "tv_偷笑" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/9527-Cat/bloging/twikoo/gif-kun/webwxgetmsgimg-18.gif\">", "text": "tv_再见" },
       { "icon": "<img src=\"https://owo.imaegoo.com/bilibili/fe1179ebaa191569b0d31cecafe7a2cd1c951c9d.png\">", "text": "tv_呆" },
       { "icon": "<img src=\"https://owo.imaegoo.com/bilibili/9f996894a39e282ccf5e66856af49483f81870f3.png\">", "text": "tv_呕吐" },
       { "icon": "<img src=\"https://owo.imaegoo.com/bilibili/241ee304e44c0af029adceb294399391e4737ef2.png\">", "text": "tv_困" },
